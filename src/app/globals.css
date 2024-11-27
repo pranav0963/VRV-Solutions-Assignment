@@ -1,0 +1,9 @@
+.dark {
+  filter: invert(1) hue-rotate(180deg);
+}
+
+.dark img,
+.dark video {
+  filter: invert(1) hue-rotate(180deg);
+}
+
